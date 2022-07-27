@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm villavan</h1>
-<h3 align="center">A curious frontend developer from India</h3>
+<h3 align="center">A curious developer</h3>
 
 - 🌱 I’m currently learning **React, bootstrap, tensor flow**
 
