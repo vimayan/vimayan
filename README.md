@@ -4,7 +4,7 @@
 <br/>
 <img src="https://camo.githubusercontent.com/df1cb3964075abf5db50341b2e23cb1de1855ca3c522c15fdf6e94819694b150/68747470733a2f2f73756e7365746d65646961776176652e66696c65732e776f726470726573732e636f6d2f323031342f31312f322d312e676966" alt="css3" width="50%" align="right" />
 
-- 🌱 I’m currently learning **React, bootstrap, tensor flow**
+- 🌱 I’m currently learning tensor flow**
 
 - 💬 Ask me about **javascript, react**
 
